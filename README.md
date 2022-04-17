@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my page 👋
 
-<!--
-**Jerichord/Jerichord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am currently studying computer engineering at UC Davis. I love to see how the various forms of software
 
-Here are some ideas to get you started:
+are used and implemented in our daily lives, and how they will evolve in this growing age of tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and implementing the whole development cycle of websites and applications. So far, the MERN stack and Kotlin have been my main tools.
+
+- 🔭 My next goals are integrating my applications into the cloud, and getting better at React.
+
+- 👯 I’m looking to get an internship/opening position as a developer/engineer to expand my knowledge.
+
+- 😄 On my free time I enjoy spending time with my pets, reading manga, and learning Mandarin.
+
+
