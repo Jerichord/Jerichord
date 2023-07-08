@@ -1,11 +1,11 @@
 # Welcome to my page 👋
 
 ## About Me
-I graduated computer engineering from UC Davis and am currently an SDE intern with interest in networking and
+I graduated computer engineering from UC Davis with extensive coding experience in various projects ranging from mock file systems to implementing code in machine
 
-fullstack. I love to see how the various forms of software are used and implemented in our daily lives, and how 
+language, creating fullstack applications, and working on embedded systems. I am currently an SDE intern with interest in networking and fullstack. 
 
-they will evolve in this growing age of tech.
+I love to see how the various forms of software are used and implemented in our daily lives, and how they will evolve in this growing age of tech.
 
 - 🌱 I’m actively working on increasing knowledge on the whole development cycle of websites and applications. So far, the MERN stack and Kotlin have been my main tools.
 
