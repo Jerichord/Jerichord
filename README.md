@@ -3,15 +3,15 @@
 ## About Me
 I graduated computer engineering from UC Davis with extensive coding experience in various projects ranging from mock file systems to implementing code in machine
 
-language, creating fullstack applications, and working on embedded systems. I am currently an SDE intern with interest in networking and fullstack. 
+language, creating fullstack applications, and working on embedded systems. My most recent experience was a Software Quality Engineer in Broadcom. 
 
 I love to see how the various forms of software are used and implemented in our daily lives, and how they will evolve in this growing age of tech.
 
-- 🌱 I’m actively working on increasing knowledge on the whole development cycle of websites and applications. So far, the MERN stack and Kotlin have been my main tools.
+- 🌱 I’m actively working on increasing my network knowledge, and developing in my free time.
 
-- 🔭 My next goals are integrating my applications into the cloud, and reading more on networking and system design.
+- 🔭 My next goals are getting deeper into the networking and development lifecycle through certs and projects.
 
-- 👯 I’m looking to get an internship/opening position as a developer/engineer to expand my knowledge.
+- 👯 I’m looking to find a niche that I enjoy in the field.
 
 - 😄 On my free time I enjoy spending time with my pets, reading manga, and learning Mandarin.
 
